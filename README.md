@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nimashahahmadian
-- 👀 I’m interested in python and image processing
-- 🌱 I’m currently learning python machine learning and ai plus flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cool designs and deploying them.
+- 🌱 I’m currently working with flutter
 - 📫 How to reach me nimashahahmadian@gmail.com
 
 im here to explore codding some more..
